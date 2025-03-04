@@ -1,0 +1,1 @@
+# TKKTPM_DesignPattern
